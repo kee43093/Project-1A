@@ -1,0 +1,67 @@
+.weather-section {
+    background: url('https://t3.ftcdn.net/jpg/01/94/83/10/240_F_194831077_ddr4wrurP4pA3vSI9yZ3O5saJjb27sua.jpg');
+    background-size: cover;
+    text-align: center;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+}
+
+.weather-section-text {
+    color: #fefefe;
+    text-shadow: 1px 1px 2px #0a0a0a;
+    font-weight:bold;
+    font-style:italic;
+  }
+
+.feels_like{
+    font-weight:bold;
+    font-style:italic;
+}
+
+.humidity {
+    font-weight:bold;
+    font-style:italic;
+
+}
+.temp {
+    font-weight:bold;
+    font-style:italic;
+
+     
+}
+
+.card-divider {
+    width: 100%;
+    Text-align: center;
+    text-size-adjust: 100%;
+}
+
+.hero-section {
+    background: url('https://images.unsplash.com/photo-1528823872057-9c018a7a7553?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2000&q=80');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+    text-align: center;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+}
+
+.hero-section-text {
+    color: #fefefe;
+    text-shadow: 1px 1px 2px #0a0a0a;
+  }
